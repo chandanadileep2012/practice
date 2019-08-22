@@ -1,1 +1,3 @@
-﻿msgbox "hi"
+﻿Function ss
+  msgbox "hi"
+End Function
