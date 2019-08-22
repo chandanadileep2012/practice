@@ -1,3 +1,4 @@
 ﻿Function DemoScript
-msgbox "hi"  
+msgbox "hi"
+  
 End Function
