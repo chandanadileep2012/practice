@@ -3,5 +3,6 @@
 	<children>
 		<child name="Unit1" key="{716B4446-D169-474C-A20C-5B22701C695F}" path="Unit1.svb" />
 		<child name="DemoScript" key="{74DF7CF2-052B-41EC-A35B-18B64E2F67D2}" path="DemoScript.svb" />
+		<child name="Unit2" key="{6FDB4BD3-7E34-4F6C-B28B-88FE8F9911DC}" path="Unit2.svb" />
 	</children>
 </Root>
